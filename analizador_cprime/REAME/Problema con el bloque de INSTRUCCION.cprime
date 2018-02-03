@@ -1,0 +1,19 @@
+public class hola{
+	public int hola(){
+	
+	//Si ingresamos alguna sentencia de INSTRUCCION, siempre detecta la primera, debemos corregirlo
+	//muestra que se esperaba un if
+		while(){
+
+		}
+	} 
+}
+
+/*
+//Este logra mostrar el mensaje de Programa sintacticamente correpto  
+public class hola{
+	public int hola(){
+
+	} 
+}
+*/
